@@ -8,7 +8,7 @@ npm i headflip -g --save
 
 ## Usage
 ```
-$ flip
+$ headflip
 > tails
 ```
 or
